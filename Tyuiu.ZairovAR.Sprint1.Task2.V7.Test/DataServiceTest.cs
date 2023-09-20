@@ -15,7 +15,7 @@ namespace Tyuiu.ZairovAR.Sprint1.Task2.V7.Test
             double x = 2;
             double y = 3.14;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(12.56 , res);
+            Assert.AreEqual(12.56 ,res);
         }
     }
 }

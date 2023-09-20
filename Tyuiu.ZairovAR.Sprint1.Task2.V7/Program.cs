@@ -29,8 +29,8 @@ namespace Tyuiu.ZairovAR.Sprint1.Task2.V7
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double x;
-            double y;
+             double x;
+             double y;
 
 
             Console.WriteLine("Введите радиус круга - ");

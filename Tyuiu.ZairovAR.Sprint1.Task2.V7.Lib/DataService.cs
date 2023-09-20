@@ -13,7 +13,7 @@ namespace Tyuiu.ZairovAR.Sprint1.Task2.V7.Lib
     {
         public double Calculate(double x, double y)
         {
-            return x * x * y;
+            return  x * x * y;
         }
     }
 }

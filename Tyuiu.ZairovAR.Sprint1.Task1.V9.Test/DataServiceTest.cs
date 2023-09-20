@@ -12,9 +12,9 @@ namespace Tyuiu.ZairovAR.Sprint1.Task1.V9.Test
         {
             DataService ds = new DataService();
             double x = 1;
-            double y = 1;
+            double y = 2;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(1, res);
+            Assert.AreEqual(0.5, res);
         }
     }
 }

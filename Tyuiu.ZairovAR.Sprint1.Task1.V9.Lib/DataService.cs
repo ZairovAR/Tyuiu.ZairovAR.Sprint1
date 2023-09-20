@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 
 
-namespace Tyuiu.ZairovAR.Sprint1.Task1.V0.Lib
+namespace Tyuiu.ZairovAR.Sprint1.Task1.V9.Lib
 {
     public class DataService : ISprint1Task1V9
     {

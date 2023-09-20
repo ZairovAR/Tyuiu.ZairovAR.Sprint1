@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A56150D5-95A4-439D-B3E9-18B950ADCA47}</ProjectGuid>
+    <ProjectGuid>{12043B31-821C-4C5B-B525-4339FD2646FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.ZairovAR.Sprint1.Task2.V0</RootNamespace>
-    <AssemblyName>Tyuiu.ZairovAR.Sprint1.Task2.V0</AssemblyName>
+    <RootNamespace>Tyuiu.ZairovAR.Sprint1.Task2.V7</RootNamespace>
+    <AssemblyName>Tyuiu.ZairovAR.Sprint1.Task2.V7</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ZairovAR.Sprint1.Task2.V0.Lib\Tyuiu.ZairovAR.Sprint1.Task2.V7.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.ZairovAR.Sprint1.Task2.V7.Lib\Tyuiu.ZairovAR.Sprint1.Task2.V7.Lib.csproj">
       <Project>{6355d240-8279-4210-8295-79badb9db24e}</Project>
       <Name>Tyuiu.ZairovAR.Sprint1.Task2.V7.Lib</Name>
     </ProjectReference>

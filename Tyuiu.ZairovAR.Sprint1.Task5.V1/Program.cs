@@ -17,7 +17,7 @@ namespace Tyuiu.ZairovAR.Sprint1.Task5.V1
             Console.Title = "Спринт #1 | Выполнил: Заиров А. Р. | ACOиУБ 23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Class Math                                                        *");
+            Console.WriteLine("* Тема: Преобразование типов и класс ConvertФайл                          *");
             Console.WriteLine("* Задание #1.5                                                            *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Заиров Артур Ранисович | AСОиУБ 23-2                          *");
